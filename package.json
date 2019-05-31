@@ -2,10 +2,10 @@
   "name": "andremasson.me",
   "version": "0.1.0",
   "private": true,
-  "homepage": "/andremasson/",
   "dependencies": {
     "@material-ui/core": "^4.0.0-rc.0",
     "@material-ui/icons": "^4.0.1",
+    "gh-pages": "^2.0.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-router": "^5.0.0",
