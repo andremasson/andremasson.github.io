@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/andremasson/static/css/main.94ad8322.chunk.css",
+    "main.js": "/andremasson/static/js/main.9530737c.chunk.js",
+    "main.js.map": "/andremasson/static/js/main.9530737c.chunk.js.map",
+    "runtime~main.js": "/andremasson/static/js/runtime~main.5f9bfa63.js",
+    "runtime~main.js.map": "/andremasson/static/js/runtime~main.5f9bfa63.js.map",
+    "static/js/2.af303c1d.chunk.js": "/andremasson/static/js/2.af303c1d.chunk.js",
+    "static/js/2.af303c1d.chunk.js.map": "/andremasson/static/js/2.af303c1d.chunk.js.map",
+    "index.html": "/andremasson/index.html",
+    "precache-manifest.0f6d02e6992eabc07d1e13c22351828e.js": "/andremasson/precache-manifest.0f6d02e6992eabc07d1e13c22351828e.js",
+    "service-worker.js": "/andremasson/service-worker.js",
+    "static/css/main.94ad8322.chunk.css.map": "/andremasson/static/css/main.94ad8322.chunk.css.map"
+  }
+}
